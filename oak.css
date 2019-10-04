@@ -1,0 +1,176 @@
+
+.mySlides {display:none;
+}
+.first{
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 5%
+}
+#font1{
+	font-family: 'azedobold lekton';
+    font-size: 60px;
+    letter-spacing: 8px;
+    position: absolute;
+    top:50%;
+}
+.middle{
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#font2{
+	font-family: 'Lekton', sans-serif;
+
+}
+#font3{
+	font-family: 'Ubuntu';
+    font-weight: 400;
+    line-height: 24px;
+}
+#font4{
+
+	color: #111111;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 100;
+
+    letter-spacing: 0.4px;
+
+}
+.my {display:none;
+float: right;
+margin-left: 10%;
+margin-top: -10%;
+margin-bottom: 10%;
+display: inline;
+}
+.box{
+	background-color: white;
+}
+.text{
+	margin-top: 20%;
+}
+.third{
+   margin-top: 20%;
+}
+#thfirst{
+font-family:  'Lekton', sans-serif;
+font-size: 24px;
+    font-weight: 700;
+    margin-left: 5%;
+}
+#thfont1{
+	font-family: 'Ubuntu', sans-serif;
+	letter-spacing: 1.3pt;
+    color: #111111;
+    clear: both;
+    padding-bottom: 5px;
+    font-size: 14px;
+    margin-left: 5%;
+}
+#imghor{
+display: inline
+}
+#box1{
+	background-color: white;
+}
+#box1c1{
+	position: absolute;
+	left: 5%;
+	width: 25%;
+
+}
+#box1c2{
+	position: absolute;
+    left: 35%;
+    width: 25%;
+}
+#box1c3{
+	position: absolute;
+    left: 65%;
+	width: 25%;
+}
+#paras{
+    font-family: 'Ubuntu', sans-serif;
+    color: #111111;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 100;
+    clear: both;
+    letter-spacing: 0.4px;
+}
+.portfolio{
+	margin-top: 15%;
+	margin-left: 9%;
+	margin-right: 7.5%;
+}
+.seclast{
+	background-color: white;
+    margin-top: 3%;
+}
+#sl1{
+    position: absolute;
+    left: 0%;
+	background-color: #7beec7;
+	margin-left: 10.75%;
+	width: 33%;
+	padding-top: 4%;
+    padding-left: 7%;
+    padding-bottom: 4%;
+    height: 24.6%;
+}
+h1,h2,h4{
+    font-family: 'Lekton', sans-serif;
+}
+#sl2{
+    background-color: black;
+    position: absolute;
+    left: 50.75%;
+    width: 30%;
+    padding-top: 10%;
+    padding-right: : 10%;
+    padding-bottom: 10%;
+}
+#sl21{
+    background-color: white;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    width: 80%;
+    height: 80%;
+}
+.footer{
+    width: 100%;
+    margin-top: 25%;
+    background: #f4f4f4;
+}
+#footerleft{
+    padding-top: 2%;
+   
+    margin-left: 7%; font-size: 20px; font-weight:700;
+    padding-bottom: 5%;
+}
+#footerright{
+    position: absolute;
+    top: 515%;
+    margin-left: 80%;
+    font-size: 20px; font-weight:700;
+}
+.footfont{
+    color: #787878;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.5pt;
+    margin-bottom: 20px;
+    font-style: normal;
+    line-height: 1.42857143;
+    font-family: 'Ubuntu', sans-serif;
+}
+#footmid{
+    position: absolute;
+    top: 535%;
+    margin-left: 40%;
+}
+#back{
+    background-color: #7beec7;
+}
